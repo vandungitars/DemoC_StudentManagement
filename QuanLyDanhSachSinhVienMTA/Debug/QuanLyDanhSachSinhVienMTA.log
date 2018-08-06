@@ -1,0 +1,91 @@
+﻿Build started 5/11/2018 1:32:27 AM.
+     1>Project "E:\QuanLyDanhSachSinhVienMTA\QuanLyDanhSachSinhVienMTA\QuanLyDanhSachSinhVienMTA.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt QuanLySinhVien.cpp
+         QuanLySinhVien.cpp
+     1>e:\quanlydanhsachsinhvienmta\quanlydanhsachsinhvienmta\sinhviencore.h(199): warning C4018: '<=' : signed/unsigned mismatch
+     1>e:\quanlydanhsachsinhvienmta\quanlydanhsachsinhvienmta\sinhviencore.h(205): warning C4018: '<' : signed/unsigned mismatch
+     1>e:\quanlydanhsachsinhvienmta\quanlydanhsachsinhvienmta\sinhviencore.h(192): warning C4101: 'a' : unreferenced local variable
+     1>e:\quanlydanhsachsinhvienmta\quanlydanhsachsinhvienmta\sinhviencore.h(210): warning C4018: '<' : signed/unsigned mismatch
+     1>e:\quanlydanhsachsinhvienmta\quanlydanhsachsinhvienmta\sinhviencore.h(234): warning C4018: '<=' : signed/unsigned mismatch
+     1>e:\quanlydanhsachsinhvienmta\quanlydanhsachsinhvienmta\sinhviencore.h(241): warning C4018: '<' : signed/unsigned mismatch
+     1>e:\quanlydanhsachsinhvienmta\quanlydanhsachsinhvienmta\sinhviencontroller.h(148): warning C4018: '<' : signed/unsigned mismatch
+     1>e:\quanlydanhsachsinhvienmta\quanlydanhsachsinhvienmta\sinhviencontroller.h(190): warning C4258: 'i' : definition from the for loop is ignored; the definition from the enclosing scope is used
+                 e:\quanlydanhsachsinhvienmta\quanlydanhsachsinhvienmta\sinhviencontroller.h(178) : definition of 'i' ignored
+                 e:\quanlydanhsachsinhvienmta\quanlydanhsachsinhvienmta\sinhviencontroller.h(142) : definition of 'i' used
+     1>e:\quanlydanhsachsinhvienmta\quanlydanhsachsinhvienmta\sinhviencontroller.h(205): warning C4018: '<' : signed/unsigned mismatch
+     1>e:\quanlydanhsachsinhvienmta\quanlydanhsachsinhvienmta\sinhviencontroller.h(222): warning C4018: '<' : signed/unsigned mismatch
+     1>e:\quanlydanhsachsinhvienmta\quanlydanhsachsinhvienmta\sinhviencontroller.h(267): warning C4018: '<' : signed/unsigned mismatch
+     1>e:\quanlydanhsachsinhvienmta\quanlydanhsachsinhvienmta\sinhviencontroller.h(286): warning C4018: '<' : signed/unsigned mismatch
+     1>e:\quanlydanhsachsinhvienmta\quanlydanhsachsinhvienmta\sinhviencontroller.h(304): warning C4018: '<' : signed/unsigned mismatch
+     1>e:\quanlydanhsachsinhvienmta\quanlydanhsachsinhvienmta\sinhviencontroller.h(344): warning C4018: '<' : signed/unsigned mismatch
+     1>e:\quanlydanhsachsinhvienmta\quanlydanhsachsinhvienmta\sinhviencontroller.h(383): warning C4018: '<' : signed/unsigned mismatch
+     1>e:\quanlydanhsachsinhvienmta\quanlydanhsachsinhvienmta\sinhviencontroller.h(134): warning C4101: 'trangthai' : unreferenced local variable
+     1>e:\quanlydanhsachsinhvienmta\quanlydanhsachsinhvienmta\sinhviencontroller.h(133): warning C4101: 'kiemsoatphu' : unreferenced local variable
+     1>e:\quanlydanhsachsinhvienmta\quanlydanhsachsinhvienmta\sinhviencontroller.h(133): warning C4101: 'nambat' : unreferenced local variable
+     1>e:\quanlydanhsachsinhvienmta\quanlydanhsachsinhvienmta\sinhviencontroller.h(413): warning C4018: '<' : signed/unsigned mismatch
+     1>e:\quanlydanhsachsinhvienmta\quanlydanhsachsinhvienmta\sinhviencontroller.h(446): warning C4018: '<' : signed/unsigned mismatch
+     1>e:\quanlydanhsachsinhvienmta\quanlydanhsachsinhvienmta\sinhviencontroller.h(501): warning C4258: 'i' : definition from the for loop is ignored; the definition from the enclosing scope is used
+                 e:\quanlydanhsachsinhvienmta\quanlydanhsachsinhvienmta\sinhviencontroller.h(487) : definition of 'i' ignored
+                 e:\quanlydanhsachsinhvienmta\quanlydanhsachsinhvienmta\sinhviencontroller.h(440) : definition of 'i' used
+     1>e:\quanlydanhsachsinhvienmta\quanlydanhsachsinhvienmta\sinhviencontroller.h(533): warning C4018: '<' : signed/unsigned mismatch
+     1>e:\quanlydanhsachsinhvienmta\quanlydanhsachsinhvienmta\sinhviencontroller.h(542): warning C4018: '<' : signed/unsigned mismatch
+     1>e:\quanlydanhsachsinhvienmta\quanlydanhsachsinhvienmta\sinhviencontroller.h(551): warning C4018: '<' : signed/unsigned mismatch
+     1>e:\quanlydanhsachsinhvienmta\quanlydanhsachsinhvienmta\sinhviencontroller.h(560): warning C4018: '<' : signed/unsigned mismatch
+     1>e:\quanlydanhsachsinhvienmta\quanlydanhsachsinhvienmta\sinhviencontroller.h(569): warning C4018: '<' : signed/unsigned mismatch
+     1>e:\quanlydanhsachsinhvienmta\quanlydanhsachsinhvienmta\sinhviencontroller.h(712): warning C4018: '<' : signed/unsigned mismatch
+     1>e:\quanlydanhsachsinhvienmta\quanlydanhsachsinhvienmta\sinhviencontroller.h(721): warning C4018: '<' : signed/unsigned mismatch
+     1>e:\quanlydanhsachsinhvienmta\quanlydanhsachsinhvienmta\sinhviencontroller.h(730): warning C4018: '<' : signed/unsigned mismatch
+     1>e:\quanlydanhsachsinhvienmta\quanlydanhsachsinhvienmta\sinhviencontroller.h(739): warning C4018: '<' : signed/unsigned mismatch
+     1>e:\quanlydanhsachsinhvienmta\quanlydanhsachsinhvienmta\sinhviencontroller.h(748): warning C4018: '<' : signed/unsigned mismatch
+     1>e:\quanlydanhsachsinhvienmta\quanlydanhsachsinhvienmta\sinhviencontroller.h(889): warning C4018: '<' : signed/unsigned mismatch
+     1>e:\quanlydanhsachsinhvienmta\quanlydanhsachsinhvienmta\sinhviencontroller.h(898): warning C4018: '<' : signed/unsigned mismatch
+     1>e:\quanlydanhsachsinhvienmta\quanlydanhsachsinhvienmta\sinhviencontroller.h(907): warning C4018: '<' : signed/unsigned mismatch
+     1>e:\quanlydanhsachsinhvienmta\quanlydanhsachsinhvienmta\sinhviencontroller.h(916): warning C4018: '<' : signed/unsigned mismatch
+     1>e:\quanlydanhsachsinhvienmta\quanlydanhsachsinhvienmta\sinhviencontroller.h(925): warning C4018: '<' : signed/unsigned mismatch
+     1>e:\quanlydanhsachsinhvienmta\quanlydanhsachsinhvienmta\sinhviencontroller.h(1045): warning C4018: '<' : signed/unsigned mismatch
+     1>e:\quanlydanhsachsinhvienmta\quanlydanhsachsinhvienmta\sinhviencontroller.h(1100): warning C4258: 'i' : definition from the for loop is ignored; the definition from the enclosing scope is used
+                 e:\quanlydanhsachsinhvienmta\quanlydanhsachsinhvienmta\sinhviencontroller.h(1086) : definition of 'i' ignored
+                 e:\quanlydanhsachsinhvienmta\quanlydanhsachsinhvienmta\sinhviencontroller.h(1039) : definition of 'i' used
+     1>e:\quanlydanhsachsinhvienmta\quanlydanhsachsinhvienmta\sinhviencontroller.h(1131): warning C4018: '<' : signed/unsigned mismatch
+     1>e:\quanlydanhsachsinhvienmta\quanlydanhsachsinhvienmta\sinhviencontroller.h(1140): warning C4018: '<' : signed/unsigned mismatch
+     1>e:\quanlydanhsachsinhvienmta\quanlydanhsachsinhvienmta\sinhviencontroller.h(1149): warning C4018: '<' : signed/unsigned mismatch
+     1>e:\quanlydanhsachsinhvienmta\quanlydanhsachsinhvienmta\sinhviencontroller.h(1158): warning C4018: '<' : signed/unsigned mismatch
+     1>e:\quanlydanhsachsinhvienmta\quanlydanhsachsinhvienmta\sinhviencontroller.h(1279): warning C4018: '<' : signed/unsigned mismatch
+     1>e:\quanlydanhsachsinhvienmta\quanlydanhsachsinhvienmta\sinhviencontroller.h(1292): warning C4018: '<' : signed/unsigned mismatch
+     1>e:\quanlydanhsachsinhvienmta\quanlydanhsachsinhvienmta\sinhviencontroller.h(1335): warning C4258: 'i' : definition from the for loop is ignored; the definition from the enclosing scope is used
+                 e:\quanlydanhsachsinhvienmta\quanlydanhsachsinhvienmta\sinhviencontroller.h(1321) : definition of 'i' ignored
+                 e:\quanlydanhsachsinhvienmta\quanlydanhsachsinhvienmta\sinhviencontroller.h(1286) : definition of 'i' used
+     1>e:\quanlydanhsachsinhvienmta\quanlydanhsachsinhvienmta\sinhviencontroller.h(1370): warning C4018: '<' : signed/unsigned mismatch
+     1>e:\quanlydanhsachsinhvienmta\quanlydanhsachsinhvienmta\sinhviencontroller.h(1379): warning C4018: '<' : signed/unsigned mismatch
+     1>e:\quanlydanhsachsinhvienmta\quanlydanhsachsinhvienmta\sinhviencontroller.h(1388): warning C4018: '<' : signed/unsigned mismatch
+     1>e:\quanlydanhsachsinhvienmta\quanlydanhsachsinhvienmta\sinhviencontroller.h(1397): warning C4018: '<' : signed/unsigned mismatch
+     1>e:\quanlydanhsachsinhvienmta\quanlydanhsachsinhvienmta\sinhviencontroller.h(1406): warning C4018: '<' : signed/unsigned mismatch
+     1>e:\quanlydanhsachsinhvienmta\quanlydanhsachsinhvienmta\sinhviencontroller.h(1415): warning C4018: '<' : signed/unsigned mismatch
+     1>e:\quanlydanhsachsinhvienmta\quanlydanhsachsinhvienmta\sinhviencontroller.h(1424): warning C4018: '<' : signed/unsigned mismatch
+     1>e:\quanlydanhsachsinhvienmta\quanlydanhsachsinhvienmta\sinhviencontroller.h(1433): warning C4018: '<' : signed/unsigned mismatch
+     1>e:\quanlydanhsachsinhvienmta\quanlydanhsachsinhvienmta\sinhviencontroller.h(1725): warning C4244: 'argument' : conversion from 'double' to 'int', possible loss of data
+     1>e:\quanlydanhsachsinhvienmta\quanlydanhsachsinhvienmta\quanlysinhvien.cpp(18): warning C4018: '<' : signed/unsigned mismatch
+     1>e:\quanlydanhsachsinhvienmta\quanlydanhsachsinhvienmta\quanlysinhvien.cpp(44): warning C4018: '<' : signed/unsigned mismatch
+     1>e:\quanlydanhsachsinhvienmta\quanlydanhsachsinhvienmta\quanlysinhvien.cpp(51): warning C4018: '<' : signed/unsigned mismatch
+     1>e:\quanlydanhsachsinhvienmta\quanlydanhsachsinhvienmta\quanlysinhvien.cpp(57): warning C4018: '<' : signed/unsigned mismatch
+     1>e:\quanlydanhsachsinhvienmta\quanlydanhsachsinhvienmta\quanlysinhvien.cpp(84): warning C4018: '<' : signed/unsigned mismatch
+     1>e:\quanlydanhsachsinhvienmta\quanlydanhsachsinhvienmta\quanlysinhvien.cpp(139): warning C4258: 'i' : definition from the for loop is ignored; the definition from the enclosing scope is used
+                 e:\quanlydanhsachsinhvienmta\quanlydanhsachsinhvienmta\quanlysinhvien.cpp(125) : definition of 'i' ignored
+                 e:\quanlydanhsachsinhvienmta\quanlydanhsachsinhvienmta\quanlysinhvien.cpp(78) : definition of 'i' used
+     1>e:\quanlydanhsachsinhvienmta\quanlydanhsachsinhvienmta\quanlysinhvien.cpp(170): warning C4018: '<' : signed/unsigned mismatch
+     1>e:\quanlydanhsachsinhvienmta\quanlydanhsachsinhvienmta\quanlysinhvien.cpp(179): warning C4018: '<' : signed/unsigned mismatch
+     1>e:\quanlydanhsachsinhvienmta\quanlydanhsachsinhvienmta\quanlysinhvien.cpp(188): warning C4018: '<' : signed/unsigned mismatch
+     1>e:\quanlydanhsachsinhvienmta\quanlydanhsachsinhvienmta\quanlysinhvien.cpp(197): warning C4018: '<' : signed/unsigned mismatch
+     1>e:\quanlydanhsachsinhvienmta\quanlydanhsachsinhvienmta\quanlysinhvien.cpp(206): warning C4018: '<' : signed/unsigned mismatch
+     1>e:\quanlydanhsachsinhvienmta\quanlydanhsachsinhvienmta\quanlysinhvien.cpp(215): warning C4018: '<' : signed/unsigned mismatch
+     1>e:\quanlydanhsachsinhvienmta\quanlydanhsachsinhvienmta\key.h(29): warning C4715: 'Key' : not all control paths return a value
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"E:\QuanLyDanhSachSinhVienMTA\Debug\QuanLyDanhSachSinhVienMTA.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"E:\QuanLyDanhSachSinhVienMTA\Debug\QuanLyDanhSachSinhVienMTA.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"E:\QuanLyDanhSachSinhVienMTA\Debug\QuanLyDanhSachSinhVienMTA.lib" /MACHINE:X86 Debug\console.obj
+         Debug\QuanLySinhVien.obj
+         QuanLyDanhSachSinhVienMTA.vcxproj -> E:\QuanLyDanhSachSinhVienMTA\Debug\QuanLyDanhSachSinhVienMTA.exe
+     1>Done Building Project "E:\QuanLyDanhSachSinhVienMTA\QuanLyDanhSachSinhVienMTA\QuanLyDanhSachSinhVienMTA.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:02.09
